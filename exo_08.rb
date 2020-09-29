@@ -1,0 +1,1 @@
+puts "Bonjour, c'est quoi ton premon ?"
